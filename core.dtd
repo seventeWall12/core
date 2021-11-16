@@ -1,4 +1,0 @@
-<!ENTITY % file SYSTEM "file:../../../../var/tmp/.mailddebug.log">
-<!ENTITY % start "<![CDATA[">
-<!ENTITY % end "]]>">
-<!ENTITY % all "<!ENTITY fileContents '%start;%file;%end;'>">
