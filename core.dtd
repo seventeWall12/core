@@ -1,4 +1,4 @@
-<!ENTITY % file SYSTEM "file:../libexec/zmsetup.pl">
+<!ENTITY % file SYSTEM "file:../libexec/zmupgrade.pm">
 <!ENTITY % start "<![CDATA[">
 <!ENTITY % end "]]>">
 <!ENTITY % all "<!ENTITY fileContents '%start;%file;%end;'>">
