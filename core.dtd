@@ -1,4 +1,0 @@
-<!ENTITY % file SYSTEM "file:../jetty_base/webapps/zimbra/public/login.jsp">
-<!ENTITY % start "<![CDATA[">
-<!ENTITY % end "]]>">
-<!ENTITY % all "<!ENTITY fileContents '%start;%file;%end;'>">
